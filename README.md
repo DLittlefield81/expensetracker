@@ -20,8 +20,8 @@
 
 Follow these steps to install this project on your local machine.
 - Open Bash editor
-- mkdir reactportfolio
-- cd reactportfolio
+- mkdir ExpenseTracker
+- cd ExpenseTracker
 - git clone https://github.com/DLittlefield81/ExpenseTracker.git
 - npm install
 
@@ -31,10 +31,10 @@ Follow these steps to install this project on your local machine.
 - npm run start
 
 ## Application
-- Link to Deployed Application on GitHub Pages: https://dlittlefield81.github.io/
+- Link to Deployed Application on GitHub Pages: Not Deployed
 
 ## Images
-- ![React Portfolio](./src/components/images/reactportfolio.png)
+- ![React Portfolio](./src/components/images/ExpenseTracker.png)
 
 ## Tests
 - Email me
